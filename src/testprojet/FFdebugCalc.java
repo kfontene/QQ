@@ -7,7 +7,7 @@ package testprojet;
 
 /**
  *
- * @author Kevin
+ * @author Kevin // GITHUB DE MERDE MERDE MERDE
  */
 public class FFdebugCalc {
     /**
